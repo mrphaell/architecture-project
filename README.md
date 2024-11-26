@@ -1,5 +1,3 @@
-# Fintech Diagram
-
 # Diagrama de aplicação para Fintech
 
 
